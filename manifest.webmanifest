@@ -1,7 +1,7 @@
 {
-  "name": "茂茂物语",
-  "short_name": "茂茂物语",
-  "description": "Mao Mao 的成长之路",
+  "name": "码君笔记",
+  "short_name": "码君笔记",
+  "description": "从入门到放弃的底层实现原理",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
